@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sachinsaxena1996/seasons.git/precache-manifest.4e4e55c97025df56c739cf4ed601d043.js"
+  "/seasons/precache-manifest.a0cc0532a472014f1d1587106fe41689.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/sachinsaxena1996/seasons.git/index.html", {
+workbox.routing.registerNavigationRoute("/seasons/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
