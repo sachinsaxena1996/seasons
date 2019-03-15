@@ -7,7 +7,7 @@
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"
   },
-  "homepage": "https://sachinsaxena1996.github.io/seasons",
+  "homepage": "https://sachinsaxena1996.github.io/newseasons",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
