@@ -18,7 +18,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://sachinsaxena1996.github.io/newseasons",
+  "homepage": "https://github.com/sachinsaxena1996/seasons.git",
   "browserslist": [
     ">0.2%",
     "not dead",
